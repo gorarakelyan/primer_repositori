@@ -34,7 +34,7 @@ winget install Microsoft.VisualStudioCode
 |---         |---      |
 | L'instal·lador no s'obre    | Tornar a descarregar l'instal·lador. |
 | El programa no s'obre    | Reiniciar l'ordinador i provar de nou. |
-| La comanda code no funciona    | Comprovar que Visual Studio Code està instal·lat correctament. |
+| La comanda `code` no funciona    | Comprovar que Visual Studio Code està instal·lat correctament. |
 
 ## Imatge
 
