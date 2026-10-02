@@ -38,7 +38,7 @@ winget install Microsoft.VisualStudioCode
 
 ## Imatge
 
-<img src="https://labguides.testdrive.arista.com/2024.3/automation/assets/vscode_screenshot.png" alt="Interficie de Visual Studio Code" width="850">
+![Interfície de Visual Studio Code](/Imatges%20primer%20repositori/imatge_vscode.png)
 
 ## Recursos
 
